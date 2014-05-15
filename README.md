@@ -1,4 +1,0 @@
-HadithBD
-========
-
-Bangla Hadith Codes
